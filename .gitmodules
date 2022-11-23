@@ -4,3 +4,18 @@
 [submodule "interface"]
 	path = interface
 	url = https://github.com/TKUhumanoid/interface.git
+[submodule "src/usb_cam"]
+	path = src/usb_cam
+	url = https://github.com/TKUhumanoid/usb_cam_submodule.git
+[submodule "src/tku_libs"]
+	path = src/tku_libs
+	url = https://github.com/TKUhumanoid/tku_libs_submodule.git
+[submodule "src/tku_msgs"]
+	path = src/tku_msgs
+	url = https://github.com/TKUhumanoid/tku_msgs_submodule.git
+[submodule "src/walkinggait"]
+	path = src/walkinggait
+	url = https://github.com/TKUhumanoid/walkinggait_submodule.git
+[submodule "src/imageprocess"]
+	path = src/imageprocess
+	url = https://github.com/TKUhumanoid/imageprocess_submodule.git
