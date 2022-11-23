@@ -1,0 +1,3 @@
+[submodule "src/package"]
+	path = src/package
+	url = https://github.com/TKUhumanoid/motionpackage_submodule.git
